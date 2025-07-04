@@ -1,0 +1,17 @@
+# Compilação Java
+*.class
+
+# Pastas de saída
+/out/
+/bin/
+/target/
+
+# Arquivos e pastas do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos de sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
